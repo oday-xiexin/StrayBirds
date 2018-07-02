@@ -115,7 +115,7 @@ disqus:
 
 #################################### global configure #######################################
 
-username: oday-xiexin
+username: oday-xiexinbeta
 baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
